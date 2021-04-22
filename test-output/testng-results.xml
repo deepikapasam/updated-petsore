@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13049" started-at="2021-04-17T12:21:44Z" finished-at="2021-04-17T12:21:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13049" started-at="2021-04-17T12:21:44Z" finished-at="2021-04-17T12:21:57Z">
+      <class name="Deepika_API.Deepika_API.APITask">
+        <test-method status="PASS" signature="create()[pri:0, instance:Deepika_API.Deepika_API.APITask@1b604f19]" name="create" duration-ms="2209" started-at="2021-04-17T17:51:44Z" finished-at="2021-04-17T17:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+        <test-method status="PASS" signature="get()[pri:1, instance:Deepika_API.Deepika_API.APITask@1b604f19]" name="get" duration-ms="7606" started-at="2021-04-17T17:51:46Z" finished-at="2021-04-17T17:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="update()[pri:2, instance:Deepika_API.Deepika_API.APITask@1b604f19]" name="update" duration-ms="708" started-at="2021-04-17T17:51:53Z" finished-at="2021-04-17T17:51:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method status="PASS" signature="delete()[pri:3, instance:Deepika_API.Deepika_API.APITask@1b604f19]" name="delete" duration-ms="2494" started-at="2021-04-17T17:51:54Z" finished-at="2021-04-17T17:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- Deepika_API.Deepika_API.APITask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
